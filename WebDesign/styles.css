@@ -1,0 +1,14 @@
+body{background-color: #000000;
+font-family: Georgia;color:floralwhite;margin: 3em}
+h1{color:#CE3B6A;
+font-size: 5em;font-family: "Brush Script MT";}
+h2{font-size: 0.8em}
+a{text-decoration: none;color:#C4315F;}
+#lightbody1{background-color: #E2B6BA; text-align: center}
+#lightbody2 {background-color: #E2B6BA}
+#lightbody3 {background-color: #7F7C75}
+.credits{font-size: 0.7em; text-align: center}
+img{
+    display:block; 
+     margin: 0 auto;}
+li{text-align: left}
